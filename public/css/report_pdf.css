@@ -1,0 +1,50 @@
+body{
+     padding:0;
+     margin:0;
+     font-size:14px;
+     line-height:22px;
+     font-family:'Roboto', sans-serif;
+}
+.srvsHdr{
+     width:auto;
+     padding:50px 0;
+     margin:0;
+     overflow:hidden;
+}
+.srvsHdr-logo{
+     width:15%;
+     padding:0;
+     margin:0;
+     float:left;
+}
+.srvsHdr-mid{
+     width:70%;
+     padding:0;
+     margin:0;
+     float:left;
+     text-align:center;
+}
+.srvsHdr-rgt{
+     width:15%;
+     padding:0;
+     margin:0;
+     float:left;
+}
+.srvsHdr-mid h3{
+     padding:0;
+     margin:0;
+     font-size:30px;
+     line-height:36px;
+     font-weight:700;
+}
+.srvsHdr-mid h4{
+     padding:0;
+     margin:0;
+     font-size:22px;
+     line-height:32px;
+     font-weight:700;
+}
+.srvsHdr-rgt span{
+     display:block;
+     text-align:right;
+}

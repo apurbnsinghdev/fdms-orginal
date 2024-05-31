@@ -1,0 +1,26 @@
+.page-break {
+    page-break-after: always;
+}
+.title{
+	text-align:center;
+	font-family:bangla-bold;
+}
+.text-center{text-align:center}
+.text-right{text-align:right}
+.text-justify{text-align:justify}
+.mainTitle{
+	padding-bottom:30px;
+	font-size:18px;
+}
+.mainTitle span{
+	border-bottom:1px solid #000;
+}
+.pb-50{
+	padding-bottom:50px;
+}
+.pb-sm{
+	padding-bottom:15px;
+}
+.pb-10{
+	padding-bottom:10px;
+}

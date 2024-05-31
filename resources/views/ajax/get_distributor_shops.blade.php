@@ -1,0 +1,1 @@
+{{Form::select('to_shop',$shopList,null,array('id'=>'toShopId','class' => 'form-control'))}}
